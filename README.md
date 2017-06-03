@@ -1,2 +1,2 @@
-# chronoid
+# Chronoid
 Race chronometer for Android
